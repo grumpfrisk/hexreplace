@@ -2,7 +2,7 @@ Hexreplace sirve para reemplazar codigo hexadecimal utilizando comodines ??
 compilado en c++
 
 
-Se recomienda respaldar el archivo a cambiar y usar fc para comparar para verificar que ha sido aplicado el cambio hexadecimal
+Se recomienda respaldar el archivo a cambiar y usar fc para comparar y verificar que ha sido aplicado el cambio hexadecimal
 
 echo T|copy file.bin file.bak
 
